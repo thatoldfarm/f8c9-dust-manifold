@@ -37,5 +37,5 @@ Calculating digits of $\pi$ via BBP is CPU-intensive.
 - **Resolution 2-3:** Fast, suitable for small files.
 - **Resolution 4-6:** Slow, but results in much smaller ledgers. Requires a precomputed `pi_hex_30m.txt` file for maximum speed.
 
-## 📜 [MIT License]()
+## 📜 [MIT License](https://github.com/thatoldfarm/f8c9-dust-manifold/blob/main/LICENSE)
 
